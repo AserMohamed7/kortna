@@ -1,0 +1,41 @@
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  width: 100%;
+  position: fixed;
+}
+
+.logo {
+  flex-shrink: 0;
+}
+
+.logo img {
+  height: 30px;
+}
+
+.navList {
+  list-style-type: none;
+  margin: 0 auto; /* Centers the navList */
+  padding: 0;
+  display: flex;
+}
+
+.navItem {
+  margin: 0 15px;
+}
+
+.navItem a {
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  display: block;
+}
+
+.navItem a:hover {
+  color: rgb(252, 0, 0);
+}

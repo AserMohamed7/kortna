@@ -1,0 +1,133 @@
+{
+    "quizzes": [
+      {
+        "name": "Ahly Quiz",
+        "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GDKSHT3HUJPZTHPTI3HCQTPXQA.jpg",
+        "description": "Show us the real Ahlawy",
+        "items": [
+          {
+            "question": "What year was Al Ahly Sporting Club founded?",
+            "answers": ["1907", "1911", "1902", "1904"],
+            "correct_answer": "1907"
+          },
+          {
+            "question": "What are the official colors of Al Ahly Sporting Club?",
+            "answers": ["Blue and white", "Green and yellow", "Red and white", "Black and yellow"],
+            "correct_answer": "Red and white"
+          },
+          {
+            "question": "What is the nickname of Al Ahly Sporting Club?",
+            "answers": ["The Lions", "The Pharaohs", "The Red Devils", "The Eagles"],
+            "correct_answer": "The Red Devils"
+          },
+          {
+            "question": "How many CAF Champions League titles has Al Ahly won till 2024 ?",
+            "answers": ["5", "12", "10", "11"],
+            "correct_answer": "12"
+          },
+          {
+            "question": "What significant achievement did Al Ahly accomplish in 2001?",
+            "answers": ["Winning the CAF Champions League", "Winning the Egyptian Premier League", "Being named the African Club of the Century", "Winning the Egyptian Cup"],
+            "correct_answer": "Being named the African Club of the Century"
+          },
+          {
+            "question": "How many Egyptian Premier League titles has Al Ahly won as of 2024?",
+            "answers": ["40", "41", "42", "43"],
+            "correct_answer": "43"
+          }
+        ]
+      },
+      {
+        "name": "Zamalek Quiz",
+        "image": "https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/08/18/2768866-940610078.jpg?itok=JNO6oq8c",
+        "description": "Show us the real Zamalkawy",
+        "items": [
+          {
+            "question": "What planet is known as the Red Planet?",
+            "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "correct_answer": "Mars"
+          },
+          {
+            "question": "What is the chemical symbol for water?",
+            "answers": ["H2O", "O2", "CO2", "H2"],
+            "correct_answer": "H2O"
+          }
+        ]
+      },
+      {
+        "name": "Premier League Quiz",
+        "image": "https://images.news18.com/ibnlive/uploads/2023/05/untitled-design-144-16846933743x2.png",
+        "description": "Test your knowledge about the Premier League.",
+        "items": [
+          {
+            "question": "Which team won the Premier League in the 2022-2023 season?",
+            "answers": ["Manchester City", "Liverpool", "Chelsea", "Arsenal"],
+            "correct_answer": "Manchester City"
+          },
+          {
+            "question": "Who is the Premier League's all-time top scorer?",
+            "answers": ["Alan Shearer", "Wayne Rooney", "Sergio Agüero", "Harry Kane"],
+            "correct_answer": "Alan Shearer"
+          },
+          {
+            "question": "Which club has the most Premier League titles?",
+            "answers": ["Manchester United", "Liverpool", "Manchester City", "Chelsea"],
+            "correct_answer": "Manchester United"
+          },
+          {
+            "question": "Which team was the first to achieve a Premier League 'Invincibles' season?",
+            "answers": ["Arsenal", "Manchester United", "Chelsea", "Manchester City"],
+            "correct_answer": "Arsenal"
+          },
+          {
+            "question": "Which player has the most assists in a single Premier League season?",
+            "answers": ["Kevin De Bruyne", "Ryan Giggs", "Cesc Fàbregas", "Christian Eriksen"],
+            "correct_answer": "Kevin De Bruyne"
+          },
+          {
+            "question": "Which Premier League club is known as 'The Red Devils'?",
+            "answers": ["Manchester United", "Liverpool", "Arsenal", "Tottenham Hotspur"],
+            "correct_answer": "Manchester United"
+          },
+          {
+            "question": "Which player scored the fastest hat-trick in Premier League history?",
+            "answers": ["Sadio Mané", "Mohamed Salah", "Robin van Persie", "Harry Kane"],
+            "correct_answer": "Sadio Mané"
+          },
+          {
+            "question": "Which stadium is home to Tottenham Hotspur?",
+            "answers": ["Old Trafford", "Anfield", "White Hart Lane", "Tottenham Hotspur Stadium"],
+            "correct_answer": "Tottenham Hotspur Stadium"
+          },
+          {
+            "question": "Which Premier League manager is known for his 'Tinker Man' nickname?",
+            "answers": ["José Mourinho", "Claudio Ranieri", "Arsène Wenger", "Pep Guardiola"],
+            "correct_answer": "Claudio Ranieri"
+          },
+          {
+            "question": "Which club was promoted to the Premier League for the 2023-2024 season?",
+            "answers": ["Luton Town", "Nottingham Forest", "Bournemouth", "Sheffield United"],
+            "correct_answer": "Luton Town"
+          }
+        ]
+      },      
+      {
+        "name": "General Quiz",
+        "image": "https://example.com/images/math_quiz.png",
+        "description": "Test your math skills with these questions.",
+        "items": [
+          {
+            "question": "What is 2 + 2?",
+            "answers": ["3", "4", "5", "6"],
+            "correct_answer": "4"
+          },
+          {
+            "question": "What is 10 / 2?",
+            "answers": ["2", "4", "5", "10"],
+            "correct_answer": "5"
+          }
+        ]
+      }
+    ]
+  }
+  
