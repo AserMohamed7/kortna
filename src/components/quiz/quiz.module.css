@@ -18,13 +18,17 @@
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 16px;
-  flex: 1 1 calc(50% - 40px); /* Two items per row with gap considered */
+  flex: 1 1 calc(50% - 40px); 
   max-width: calc(50% - 40px);
   text-align: center;
   margin-left: 400px;
   margin-bottom: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
+.quizItem:hover {
+  transform: translateY(-5px); 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
+}
 .quizImage {
   width: 100%;
   border-radius: 8px;
@@ -44,10 +48,12 @@
   margin-left: 180px;
   justify-content: center;
   text-align: center;
+  transition: background-color 0.3s ease, transform 0.3s ease; 
 }
 
 .quizButton:hover {
   background-color: #0056b3;
+  transform: scale(1.05); 
 }
 
 .QuizDetails {
@@ -57,12 +63,12 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
   max-width: 600px;
-  margin-top:150px ;
+  margin-top:100px ;
   margin-left:450px ;
 }
 
 .QuizDetails img {
-  width: 300px;
+  width: 75%;
   border-radius: 8px;
   margin-bottom: 20px;
 }
@@ -75,10 +81,12 @@
   padding: 8px 16px;
   cursor: pointer;
   margin: 4px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .answerButton:hover {
   background-color: #218838;
+  transform: scale(1.05); 
 }
 
 .answerButton.selected {
@@ -97,10 +105,12 @@
   padding: 8px 16px;
   cursor: pointer;
   margin-right: 10px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .nextButton:hover {
   background-color: #0056b3;
+  transform: scale(1.05);
 }
 
 .submitButton {
@@ -114,33 +124,41 @@
 
 .submitButton:hover {
   background-color: #4c0000;
+  transform: scale(1.05);
 }
 
+
 .pagination {
-  margin-top: 20px;
   display: flex;
   justify-content: center;
-  gap: 10px;
+  margin-top: 20px;
 }
 
 .pagination button {
+  margin: 0 5px;
+  padding: 10px 15px;
+  border: none;
   background-color: #ff0000;
   color: white;
-  border: none;
-  border-radius: 4px;
-  padding: 8px 16px;
+  border-radius: 5px;
   cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Adding transition for hover effect */
 }
 
-
+.pagination button:hover:not(:disabled) {
+  background-color: #cc0000; /* Darker red on hover */
+  transform: scale(1.05); /* Slightly enlarge button on hover */
+}
 
 .pagination button:disabled {
-  background-color:  #686868;
+  background-color: #686868;
   cursor: not-allowed;
 }
 
 .pagination .activePage {
-  background-color:#9f0505;
+  background-color: #9f0505;
+  font-weight: bold; /* Bold font for active page */
+  transform: scale(1.1); /* Slightly larger size for active page */
 }
 
 .scoreDisplay {
@@ -171,4 +189,4 @@
 .error {
   color: #ff0000;
   margin-top: 10px;
-}
+} 

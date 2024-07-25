@@ -1,0 +1,609 @@
+{
+    "2023-2024": [
+      {
+        "standingsNumber": 1,
+        "logo": "https://tmssl.akamaized.net/images/wappen/head/418.png?lm=1697726166",
+        "name": "Real Madrid",
+        "win": 29,
+        "draw": 8,
+        "lose": 1,
+        "matchesPlayed": 38,
+        "totalPoints": 95
+      },
+      {
+        "standingsNumber": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+        "name": "Barcelona",
+        "win": 26,
+        "draw": 7,
+        "lose": 5,
+        "matchesPlayed": 38,
+        "totalPoints": 85
+      },
+      {
+        "standingsNumber": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Girona_FC_Logo.svg",
+        "name": "Girona",
+        "win": 25,
+        "draw": 6,
+        "lose": 7,
+        "matchesPlayed": 38,
+        "totalPoints": 81
+      },
+      {
+        "standingsNumber": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+        "name": "Atletico Madrid",
+        "win": 24,
+        "draw": 4,
+        "lose": 10,
+        "matchesPlayed": 38,
+        "totalPoints": 76
+      },
+      {
+        "standingsNumber": 5,
+        "logo": "https://i.pinimg.com/originals/8e/8b/9d/8e8b9d0de6910189f57f6a49a3a9be32.png",
+        "name": "Athletic Club",
+        "win": 19,
+        "draw": 11,
+        "lose": 8,
+        "matchesPlayed": 38,
+        "totalPoints": 68
+      },
+      {
+        "standingsNumber": 6,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/640px-Real_Sociedad_logo.svg.png",
+        "name": "Real Sociedad",
+        "win": 16,
+        "draw": 12,
+        "lose": 10,
+        "matchesPlayed": 38,
+        "totalPoints": 60
+      },
+      {
+        "standingsNumber": 7,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/Real_Betis_logo.svg/1247px-Real_Betis_logo.svg.png",
+        "name": "Real Betis",
+        "win": 14,
+        "draw": 15,
+        "lose": 9,
+        "matchesPlayed": 38,
+        "totalPoints": 57
+      },
+      {
+        "standingsNumber": 8,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/7/70/Villarreal_CF_logo.svg",
+        "name": "Villareal",
+        "win": 14,
+        "draw": 11,
+        "lose": 13,
+        "matchesPlayed": 38,
+        "totalPoints": 53
+      },
+      {
+        "standingsNumber": 9,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/6/66/Valencia_Cf_Logo_original.png",
+        "name": "Valencia",
+        "win": 13,
+        "draw": 10,
+        "lose": 15,
+        "matchesPlayed": 38,
+        "totalPoints": 49
+      },
+      {
+        "standingsNumber": 10,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/2055px-Deportivo_Alaves_logo_%282020%29.svg.png",
+        "name": "Alaves",
+        "win": 12,
+        "draw": 10,
+        "lose": 16,
+        "matchesPlayed": 38,
+        "totalPoints": 46
+      },
+      {
+        "standingsNumber": 11,
+        "logo": "https://seeklogo.com/images/C/club-atletico-osasuna-logo-BB4998DC78-seeklogo.com.png",
+        "name": "Osasuna",
+        "win": 12,
+        "draw": 9,
+        "lose": 17,
+        "matchesPlayed": 38,
+        "totalPoints": 45
+      },
+      {
+        "standingsNumber": 12,
+        "logo": "https://seeklogo.com/images/G/Getafe_CF_S_A_D_-logo-ECC0F2A882-seeklogo.com.png",
+        "name": "Getafe",
+        "win": 10,
+        "draw": 13,
+        "lose": 15,
+        "matchesPlayed": 38,
+        "totalPoints": 43
+      },
+      {
+        "standingsNumber": 13,
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/3/3d/Celta_de_Vigo.png",
+        "name": "Celta Vigo",
+        "win": 10,
+        "draw": 11,
+        "lose": 17,
+        "matchesPlayed": 38,
+        "totalPoints": 41
+      },
+      {
+        "standingsNumber": 14,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
+        "name": "Sevilla",
+        "win": 10,
+        "draw": 11,
+        "lose": 17,
+        "matchesPlayed": 38,
+        "totalPoints": 41
+      },
+      {
+        "standingsNumber": 15,
+        "logo": "https://seeklogo.com/images/R/Real_Club_Deportivo_Mallorca-logo-3F62E48906-seeklogo.com.png",
+        "name": "Mallorca",
+        "win": 8,
+        "draw": 16,
+        "lose": 14,
+        "matchesPlayed": 38,
+        "totalPoints": 40
+      },
+      {
+        "standingsNumber": 16,
+        "logo": "https://seeklogo.com/images/U/ud-las-palmas-logo-9C6CEF463A-seeklogo.com.png",
+        "name": "Las palmas",
+        "win": 10,
+        "draw": 10,
+        "lose": 18,
+        "matchesPlayed": 38,
+        "totalPoints": 40
+      },
+      {
+        "standingsNumber": 17,
+        "logo": "https://seeklogo.com/images/R/Rayo_Vallecano-logo-83EC841FE5-seeklogo.com.png",
+        "name": "Rayo Vallecano",
+        "win": 8,
+        "draw": 14,
+        "lose": 16,
+        "matchesPlayed": 38,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 18,
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/0/07/Cadiz_CF.png",
+        "name": "Cadiz",
+        "win": 6,
+        "draw": 15,
+        "lose": 17,
+        "matchesPlayed": 38,
+        "totalPoints": 33
+      },
+      {
+        "standingsNumber": 19,
+        "logo": "https://seeklogo.com/images/A/almeria-logo-E9FEFCFF77-seeklogo.com.png",
+        "name": "Almeria",
+        "win": 3,
+        "draw": 12,
+        "lose": 23,
+        "matchesPlayed": 38,
+        "totalPoints": 21
+      },
+      {
+        "standingsNumber": 20,
+        "logo": "https://kassiesa.net/uefa/clubs/images/Granada-CF.png",
+        "name": "Granada",
+        "win": 4,
+        "draw": 9,
+        "lose": 25,
+        "matchesPlayed": 38,
+        "totalPoints": 21
+      }
+    ],
+        "2022-2023": [
+          {
+            "standingsNumber": 1,
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+            "name": "Barcelona",
+            "win": 28,
+            "draw": 4,
+            "lose": 6,
+            "matchesPlayed": 38,
+            "totalPoints": 88
+          },
+          {
+            "standingsNumber": 2,
+            "logo": "https://tmssl.akamaized.net/images/wappen/head/418.png?lm=1697726166",
+            "name": "Real Madrid",
+            "win": 24,
+            "draw": 6,
+            "lose": 8,
+            "matchesPlayed": 38,
+            "totalPoints": 78
+          },
+          {
+            "standingsNumber": 3,
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+            "name": "Atletico Madrid",
+            "win": 23,
+            "draw": 8,
+            "lose": 7,
+            "matchesPlayed": 38,
+            "totalPoints": 77
+          },
+          {
+            "standingsNumber": 4,
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/640px-Real_Sociedad_logo.svg.png",
+            "name": "Real Sociedad",
+            "win": 21,
+            "draw": 8,
+            "lose": 9,
+            "matchesPlayed": 38,
+            "totalPoints": 71
+          },
+          {
+            "standingsNumber": 5,
+            "logo": "https://upload.wikimedia.org/wikipedia/ar/7/70/Villarreal_CF_logo.svg",
+            "name": "Villareal",
+            "win": 19,
+            "draw": 7,
+            "lose": 12,
+            "matchesPlayed": 38,
+            "totalPoints": 64
+          },
+          {
+            "standingsNumber": 6,
+            "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/Real_Betis_logo.svg/1247px-Real_Betis_logo.svg.png",
+            "name": "Real Betis",
+            "win": 17,
+            "draw": 9,
+            "lose": 12,
+            "matchesPlayed": 38,
+            "totalPoints": 60
+          },
+          {
+            "standingsNumber": 7,
+            "logo": "https://seeklogo.com/images/C/club-atletico-osasuna-logo-BB4998DC78-seeklogo.com.png",
+            "name": "Osasuna",
+            "win": 15,
+            "draw": 8,
+            "lose": 15,
+            "matchesPlayed": 38,
+            "totalPoints": 53
+          },
+          {
+            "standingsNumber": 8,
+            "logo": "https://i.pinimg.com/originals/8e/8b/9d/8e8b9d0de6910189f57f6a49a3a9be32.png",
+            "name": "Athletic Club",
+            "win": 14,
+            "draw": 9,
+            "lose": 15,
+            "matchesPlayed": 38,
+            "totalPoints": 51
+          },
+          {
+            "standingsNumber": 9,
+            "logo": "https://seeklogo.com/images/R/Real_Club_Deportivo_Mallorca-logo-3F62E48906-seeklogo.com.png",
+            "name": "Mallorca",
+            "win": 14,
+            "draw": 8,
+            "lose": 16,
+            "matchesPlayed": 38,
+            "totalPoints": 50
+          },
+          {
+            "standingsNumber": 10,
+            "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Girona_FC_Logo.svg",
+            "name": "Girona",
+            "win": 13,
+            "draw": 10,
+            "lose": 15,
+            "matchesPlayed": 38,
+            "totalPoints": 49
+          },
+          {
+            "standingsNumber": 11,
+            "logo": "https://seeklogo.com/images/R/Rayo_Vallecano-logo-83EC841FE5-seeklogo.com.png",
+            "name": "Rayo Vallecano",
+            "win": 13,
+            "draw": 10,
+            "lose": 15,
+            "matchesPlayed": 38,
+            "totalPoints": 49
+          },
+          {
+            "standingsNumber": 12,
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
+            "name": "Sevilla",
+            "win": 13,
+            "draw": 10,
+            "lose": 15,
+            "matchesPlayed": 38,
+            "totalPoints": 49
+          },
+          {
+            "standingsNumber": 13,
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/3/3d/Celta_de_Vigo.png",
+            "name": "Celta Vigo",
+            "win": 11,
+            "draw": 10,
+            "lose": 7,
+            "matchesPlayed": 38,
+            "totalPoints": 43
+          },
+          {
+            "standingsNumber": 14,
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/0/07/Cadiz_CF.png",
+            "name": "Cadiz",
+            "win": 10,
+            "draw": 12,
+            "lose": 16,
+            "matchesPlayed": 38,
+            "totalPoints": 42
+          },
+          {
+            "standingsNumber": 15,
+            "logo": "https://seeklogo.com/images/G/Getafe_CF_S_A_D_-logo-ECC0F2A882-seeklogo.com.png",
+            "name": "Getafe",
+            "win": 10,
+            "draw": 12,
+            "lose": 16,
+            "matchesPlayed": 38,
+            "totalPoints": 42
+          },
+          {
+            "standingsNumber": 16,
+            "logo": "https://upload.wikimedia.org/wikipedia/ar/6/66/Valencia_Cf_Logo_original.png",
+            "name": "Valencia",
+            "win": 11,
+            "draw": 9,
+            "lose": 18,
+            "matchesPlayed": 38,
+            "totalPoints": 42
+          },
+          {
+            "standingsNumber": 17,
+            "logo": "https://seeklogo.com/images/A/almeria-logo-E9FEFCFF77-seeklogo.com.png",
+            "name": "Almeria",
+            "win": 11,
+            "draw": 8,
+            "lose": 19,
+            "matchesPlayed": 38,
+            "totalPoints": 41
+          },
+          {
+            "standingsNumber": 18,
+            "logo": "https://seeklogo.com/images/R/real-valladolid-logo-048CA6D491-seeklogo.com.png",
+            "name": "Real Valladolid",
+            "win":11,
+            "draw": 7,
+            "lose": 20,
+            "matchesPlayed": 38,
+            "totalPoints": 40
+          },
+          {
+            "standingsNumber": 19,
+            "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/2/29/20170617185740%21Rcd_espanyol_logo.png",
+            "name": "Espanyol",
+            "win": 8,
+            "draw": 13,
+            "lose": 17,
+            "matchesPlayed": 38,
+            "totalPoints": 37
+          },
+          {
+            "standingsNumber": 20,
+            "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/c/c1/20180719235659%21Elche_CF_logo.png",
+            "name": "Elche",
+            "win": 5,
+            "draw": 10,
+            "lose": 23,
+            "matchesPlayed": 38,
+            "totalPoints": 25
+          }
+        ],
+            "2021-2022": [
+              {
+                "standingsNumber": 1,
+                "logo": "https://tmssl.akamaized.net/images/wappen/head/418.png?lm=1697726166",
+                "name": "Real Madrid",
+                "win": 26,
+                "draw": 8,
+                "lose": 4,
+                "matchesPlayed": 38,
+                "totalPoints": 86
+              },
+
+              {
+                "standingsNumber": 2,
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+                "name": "Barcelona",
+                "win": 21,
+                "draw": 10,
+                "lose": 7,
+                "matchesPlayed": 38,
+                "totalPoints": 73
+              },
+              {
+                "standingsNumber": 3,
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+                "name": "Atletico Madrid",
+                "win": 21,
+                "draw": 8,
+                "lose": 9,
+                "matchesPlayed": 38,
+                "totalPoints": 71
+              },
+              {
+                "standingsNumber": 4,
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
+                "name": "Sevilla",
+                "win": 18,
+                "draw": 16,
+                "lose": 4,
+                "matchesPlayed": 38,
+                "totalPoints": 70
+              },
+              {
+                "standingsNumber": 5,
+                "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/ce/Real_Betis_logo.svg/1247px-Real_Betis_logo.svg.png",
+                "name": "Real Betis",
+                "win": 19,
+                "draw": 8,
+                "lose": 11,
+                "matchesPlayed": 38,
+                "totalPoints": 65
+              },
+              {
+                "standingsNumber": 6,
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/640px-Real_Sociedad_logo.svg.png",
+                "name": "Real Sociedad",
+                "win": 17,
+                "draw": 11,
+                "lose": 10,
+                "matchesPlayed": 38,
+                "totalPoints": 62
+              },
+              {
+                "standingsNumber": 7,
+                "logo": "https://upload.wikimedia.org/wikipedia/ar/7/70/Villarreal_CF_logo.svg",
+                "name": "Villareal",
+                "win": 16,
+                "draw": 11,
+                "lose": 11,
+                "matchesPlayed": 38,
+                "totalPoints": 59
+              },
+              {
+                "standingsNumber": 8,
+                "logo": "https://i.pinimg.com/originals/8e/8b/9d/8e8b9d0de6910189f57f6a49a3a9be32.png",
+                "name": "Athletic Club",
+                "win": 14,
+                "draw": 13,
+                "lose": 11,
+                "matchesPlayed": 38,
+                "totalPoints": 55
+              },
+              {
+                "standingsNumber": 9,
+                "logo": "https://upload.wikimedia.org/wikipedia/ar/6/66/Valencia_Cf_Logo_original.png",
+                "name": "Valencia",
+                "win": 11,
+                "draw": 15,
+                "lose": 12,
+                "matchesPlayed": 38,
+                "totalPoints": 48
+              },
+              {
+                "standingsNumber": 10,
+                "logo": "https://seeklogo.com/images/C/club-atletico-osasuna-logo-BB4998DC78-seeklogo.com.png",
+                "name": "Osasuna",
+                "win": 12,
+                "draw": 11,
+                "lose": 15,
+                "matchesPlayed": 38,
+                "totalPoints": 47
+              },
+              {
+                "standingsNumber": 11,
+                "logo": "https://upload.wikimedia.org/wikipedia/tr/3/3d/Celta_de_Vigo.png",
+                "name": "Celta Vigo",
+                "win": 12,
+                "draw": 10,
+                "lose": 16,
+                "matchesPlayed": 38,
+                "totalPoints": 46
+              },
+              {
+                "standingsNumber": 12,
+                "logo": "https://seeklogo.com/images/R/Rayo_Vallecano-logo-83EC841FE5-seeklogo.com.png",
+                "name": "Rayo Vallecano",
+                "win": 11,
+                "draw": 9,
+                "lose": 18,
+                "matchesPlayed": 38,
+                "totalPoints": 42
+              },
+              {
+                "standingsNumber": 13,
+                "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/c/c1/20180719235659%21Elche_CF_logo.png",
+                "name": "Elche",
+                "win": 11,
+                "draw": 9,
+                "lose": 18,
+                "matchesPlayed": 38,
+                "totalPoints": 42
+              },
+              {
+                "standingsNumber": 14,
+                "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/2/29/20170617185740%21Rcd_espanyol_logo.png",
+                "name": "Espanyol",
+                "win": 10,
+                "draw": 12,
+                "lose": 16,
+                "matchesPlayed": 38,
+                "totalPoints": 42
+              },
+              {
+                "standingsNumber": 15,
+                "logo": "https://seeklogo.com/images/G/Getafe_CF_S_A_D_-logo-ECC0F2A882-seeklogo.com.png",
+                "name": "Getafe",
+                "win": 8,
+                "draw": 15,
+                "lose": 15,
+                "matchesPlayed": 38,
+                "totalPoints": 39
+              },
+              {
+                "standingsNumber": 16,
+                "logo": "https://seeklogo.com/images/R/Real_Club_Deportivo_Mallorca-logo-3F62E48906-seeklogo.com.png",
+                "name": "Mallorca",
+                "win": 10,
+                "draw": 9,
+                "lose": 19,
+                "matchesPlayed": 38,
+                "totalPoints": 39
+              },
+              {
+                "standingsNumber": 17,
+                "logo": "https://upload.wikimedia.org/wikipedia/tr/0/07/Cadiz_CF.png",
+                "name": "Cadiz",
+                "win": 8,
+                "draw": 15,
+                "lose": 15,
+                "matchesPlayed": 38,
+                "totalPoints": 39
+              },
+              {
+                "standingsNumber": 18,
+                "logo": "https://kassiesa.net/uefa/clubs/images/Granada-CF.png",
+                "name": "Granada",
+                "win": 8,
+                "draw": 14,
+                "lose": 16,
+                "matchesPlayed": 38,
+                "totalPoints": 38
+              },
+              {
+                "standingsNumber": 19,
+                "logo": "https://seeklogo.com/images/L/levante-ud-logo-FA4F823A92-seeklogo.com.png",
+                "name": "Levante",
+                "win": 8,
+                "draw": 11,
+                "lose": 19,
+                "matchesPlayed": 38,
+                "totalPoints": 35
+              },
+              {
+                "standingsNumber": 20,
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/2055px-Deportivo_Alaves_logo_%282020%29.svg.png",
+                "name": "Alaves",
+                "win": 8,
+                "draw": 7,
+                "lose": 23,
+                "matchesPlayed": 38,
+                "totalPoints": 31
+              }
+            ]
+          }          

@@ -5,6 +5,9 @@ import Home from './components/home/home';
 import News from './components/news/news';
 import Quiz from './components/quiz/quiz';
 import Bar from './components/bar/bar'; 
+import Egyptian from './components/leagues/egyptian/egyptian';
+import Premier from './components/leagues/premier/premier';
+import Liga from './components/leagues/liga/liga';
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/news" element={<News />} />
         <Route path="/quiz" element={<Quiz />} />
+        <Route path="/leagues/egyptian" element={<Egyptian/>} />
+        <Route path="/leagues/premier" element={<Premier/>} />
+        <Route path="/leagues/liga" element={<Liga/>} />
       </Routes>
     </Router>
   );

@@ -126,14 +126,20 @@ const Quiz = () => {
 
   const getScoreMessage = (score, totalQuestions) => {
     const percentage = (score / totalQuestions) * 100;
+
     if (percentage >= 90) {
-      return "Great! You are a legend!";
+        return "Great! You are a legend!";
     } else if (percentage >= 75) {
-      return "Try better!";
+        return "Well done! You know a lot!";
+    } else if (percentage >= 50) {
+        return "Not bad! Keep practicing!";
+    } else if (percentage >= 25) {
+        return "Try harder! You can do it!";
     } else {
-      return "You are not a footballer.";
+        return "You are not a footballer.";
     }
-  };
+};
+
 
   return (
     <div className={style.App}>

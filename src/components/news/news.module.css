@@ -2,14 +2,22 @@
   padding: 20px;
   max-width: 800px;
   margin: 0 auto;
+  color: #e3e3e3; /* Light text color for better readability */
+  border-radius: 8px; /* Rounded corners for the container */
 }
 
 .newsItem {
-  border: 1px solid #ccc;
+  border: 1px solid #444; /* Darker border for better contrast */
   border-radius: 8px;
   padding: 20px;
   margin: 20px 0;
-  background-color: #f9f9f9;
+  background-color: #2a2a2a; /* Slightly darker background for news items */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Adding transition for hover effect */
+}
+
+.newsItem:hover {
+  transform: translateY(-5px); /* Slightly lift the item on hover */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Adding shadow on hover */
 }
 
 .newsPhoto {
@@ -33,6 +41,12 @@
   color: white;
   border-radius: 5px;
   cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Adding transition for hover effect */
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #cc0000; /* Darker red on hover */
+  transform: scale(1.05); /* Slightly enlarge button on hover */
 }
 
 .pagination button:disabled {
@@ -42,4 +56,21 @@
 
 .pagination .activePage {
   background-color: #9f0505;
+  font-weight: bold; /* Bold font for active page */
+  transform: scale(1.1); /* Slightly larger size for active page */
+}
+
+@media (max-width: 600px) {
+  .newsContainer {
+    padding: 10px;
+  }
+
+  .newsItem {
+    padding: 15px;
+  }
+
+  .pagination button {
+    padding: 8px 12px;
+    margin: 0 3px;
+  }
 }

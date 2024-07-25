@@ -1,0 +1,549 @@
+{
+  "2022-2023": [
+    {
+      "standingsNumber": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/21/Al_Ahly_SC_logo_23.svg/577px-Al_Ahly_SC_logo_23.svg.png",
+      "name": "Al Ahly",
+      "win": 25,
+      "draw": 8,
+      "lose": 1,
+      "matchesPlayed": 34,
+      "totalPoints": 83
+    },
+    {
+      "standingsNumber": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Pyramids_F.C_%282018%29.png",
+      "name": "Pyramids",
+      "win": 22,
+      "draw": 7,
+      "lose": 5,
+      "matchesPlayed": 34,
+      "totalPoints": 73
+    },
+    {
+      "standingsNumber": 3,
+      "logo": "https://seeklogo.com/images/Z/zamalek-logo-5D73DE3456-seeklogo.com.png",
+      "name": "Zamalek",
+      "win": 17,
+      "draw": 9,
+      "lose": 8,
+      "matchesPlayed": 34,
+      "totalPoints": 60
+    },
+    {
+      "standingsNumber": 4,
+      "logo": "https://images.sports.gracenote.com/images/lib/basic/sport/football/club/logo/300/125631.png",
+      "name": "Modern Sport",
+      "win": 15,
+      "draw": 13,
+      "lose": 6,
+      "matchesPlayed": 34,
+      "totalPoints": 58
+    },
+    {
+      "standingsNumber": 5,
+      "logo": "https://seeklogo.com/images/A/al-masry-club-logo-696776FF04-seeklogo.com.png",
+      "name": "Al Masry",
+      "win": 11,
+      "draw": 15,
+      "lose": 8,
+      "matchesPlayed": 34,
+      "totalPoints": 48
+    },
+    {
+      "standingsNumber": 6,
+      "logo": "https://seeklogo.com/images/E/Enppi_Egyptian_Soccer_Club-logo-1219612C47-seeklogo.com.png",
+      "name": "Enppi",
+      "win": 13,
+      "draw": 6,
+      "lose":15,
+      "matchesPlayed": 34,
+      "totalPoints": 45
+    },
+    {
+      "standingsNumber": 7,
+      "logo": "https://tmssl.akamaized.net/images/wappen/head/3369.png?lm=1415485566",
+      "name": "Al Mokawlon",
+      "win": 9,
+      "draw": 17,
+      "lose": 8,
+      "matchesPlayed": 34,
+      "totalPoints": 44
+    },
+    {
+      "standingsNumber": 8,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Al-Ittihad_Alexandria_Club_logo.png",
+      "name": "Al Ittihad",
+      "win": 12,
+      "draw": 7,
+      "lose": 15,
+      "matchesPlayed": 34,
+      "totalPoints": 43
+    },
+    {
+      "standingsNumber": 9,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pharco_FC_Logo.png",
+      "name": "Pharco",
+      "win": 9,
+      "draw": 15,
+      "lose": 10,
+      "matchesPlayed": 34,
+      "totalPoints": 42
+    },
+    {
+      "standingsNumber": 10,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Smouha_SC_logo.png",
+      "name": "Smouha",
+      "win": 10,
+      "draw": 12,
+      "lose": 12,
+      "matchesPlayed": 34,
+      "totalPoints": 42
+    },
+    {
+      "standingsNumber": 11,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ismaily_SC_logo.png",
+      "name": "Ismaily",
+      "win": 9,
+      "draw": 13,
+      "lose": 12,
+      "matchesPlayed": 34,
+      "totalPoints": 40
+    },
+    {
+      "standingsNumber": 12,
+      "logo": "https://pbs.twimg.com/media/EkQIi5MX0AM9HU-.png",
+      "name": "National Bank",
+      "win": 9,
+      "draw": 12,
+      "lose": 13,
+      "matchesPlayed": 34,
+      "totalPoints":39
+    },
+    {
+      "standingsNumber": 13,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Ceramica_Cleopatra_FC_logo.png",
+      "name": "Ceramica Cleopatra",
+      "win": 7,
+      "draw": 16,
+      "lose": 11,
+      "matchesPlayed": 34,
+      "totalPoints": 37
+    },
+    {
+      "standingsNumber": 14,
+      "logo": "https://seeklogo.com/images/T/tala-ea-el-gaish-sporting-club-logo-CFC17EE2D9-seeklogo.com.png",
+      "name": "EL-Gaish",
+      "win": 8,
+      "draw": 12,
+      "lose": 14,
+      "matchesPlayed": 34,
+      "totalPoints": 36
+    },
+    {
+      "standingsNumber": 15,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/8/80/El_Dakhleya_FC.png",
+      "name": "El-Dakhlia",
+      "win": 7,
+      "draw": 14,
+      "lose": 13,
+      "matchesPlayed": 34,
+      "totalPoints": 35
+    },
+    {
+      "standingsNumber": 16,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/5/50/20160617033513%21%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A3%D8%B3%D9%88%D8%A7%D9%86.png",
+      "name": "Aswan",
+      "win": 8,
+      "draw": 9,
+      "lose": 17,
+      "matchesPlayed":34,
+      "totalPoints": 33
+    },
+    {
+      "standingsNumber": 17,
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ghazl_El_Mahalla_Logo.png",
+      "name": "Ghazl Elmahala",
+      "win": 8,
+      "draw": 9,
+      "lose": 17,
+      "matchesPlayed": 34,
+      "totalPoints": 33
+    },
+    {
+      "standingsNumber": 18,
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/a/a7/Haras_El_Hodoud_logo_2018.png",
+      "name": "Haras Elhedoud",
+      "win": 5,
+      "draw": 10,
+      "lose": 19,
+      "matchesPlayed": 34,
+      "totalPoints": 25
+    }
+  ],
+    "2021-2022": [
+      {
+        "standingsNumber": 1,
+        "logo": "https://seeklogo.com/images/Z/zamalek-logo-5D73DE3456-seeklogo.com.png",
+        "name": "Zamalek",
+        "win": 24,
+        "draw": 5,
+        "lose": 5,
+        "matchesPlayed": 34,
+        "totalPoints": 77
+      },
+      {
+        "standingsNumber": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Pyramids_F.C_%282018%29.png",
+        "name": "Pyramids",
+        "win": 22,
+        "draw": 5,
+        "lose": 7,
+        "matchesPlayed": 34,
+        "totalPoints": 71
+      },
+      {
+        "standingsNumber": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/21/Al_Ahly_SC_logo_23.svg/577px-Al_Ahly_SC_logo_23.svg.png",
+        "name": "Al Ahly",
+        "win": 20,
+        "draw": 10,
+        "lose": 4,
+        "matchesPlayed": 34,
+        "totalPoints": 70
+      },
+      {
+        "standingsNumber": 4,
+      "logo": "https://images.sports.gracenote.com/images/lib/basic/sport/football/club/logo/300/125631.png",
+      "name": "Modern Sport",
+        "win": 16,
+        "draw": 8,
+        "lose": 10,
+        "matchesPlayed": 34,
+        "totalPoints": 56
+      },
+      {
+        "standingsNumber": 5,
+        "logo": "https://seeklogo.com/images/T/tala-ea-el-gaish-sporting-club-logo-CFC17EE2D9-seeklogo.com.png",
+      "name": "EL-Gaish",
+        "win": 14,
+        "draw": 14,
+        "lose": 6,
+        "matchesPlayed": 34,
+        "totalPoints": 56
+      },
+      {
+        "standingsNumber": 6,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Smouha_SC_logo.png",
+      "name": "Smouha",
+        "win": 11,
+        "draw": 14,
+        "lose": 9,
+        "matchesPlayed": 34,
+        "totalPoints": 47
+      },
+      {
+        "standingsNumber": 7,
+        "logo": "https://pbs.twimg.com/media/EkQIi5MX0AM9HU-.png",
+      "name": "National Bank",
+        "win": 11,
+        "draw": 13,
+        "lose": 10,
+        "matchesPlayed": 34,
+        "totalPoints": 46
+      },
+      {
+        "standingsNumber": 8,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Pharco_FC_Logo.png",
+      "name": "Pharco",
+        "win": 9,
+        "draw": 15,
+        "lose": 10,
+        "matchesPlayed": 34,
+        "totalPoints": 42
+      },
+      {
+        "standingsNumber": 9,
+       "logo": "https://seeklogo.com/images/E/Enppi_Egyptian_Soccer_Club-logo-1219612C47-seeklogo.com.png",
+      "name": "Enppi",
+        "win": 8,
+        "draw": 15,
+        "lose": 11,
+        "matchesPlayed": 34,
+        "totalPoints": 39
+      },
+      {
+        "standingsNumber": 10,
+        "logo": "https://tmssl.akamaized.net/images/wappen/head/3369.png?lm=1415485566",
+      "name": "Al Mokawlon",
+        "win": 8,
+        "draw": 14,
+        "lose": 12,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 11,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ismaily_SC_logo.png",
+      "name": "Ismaily",
+        "win": 9,
+        "draw": 11,
+        "lose": 14,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 12,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Al-Ittihad_Alexandria_Club_logo.png",
+      "name": "Al Ittihad",
+        "win": 9,
+        "draw": 11,
+        "lose": 14,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 13,
+        "logo": "https://seeklogo.com/images/A/al-masry-club-logo-696776FF04-seeklogo.com.png",
+      "name": "Al Masry",
+        "win": 8,
+        "draw": 14,
+        "lose": 12,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 14,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Ceramica_Cleopatra_FC_logo.png",
+      "name": "Ceramica Cleopatra",
+        "win": 7,
+        "draw": 16,
+        "lose": 111,
+        "matchesPlayed": 34,
+        "totalPoints": 37
+      },
+      {
+        "standingsNumber": 15,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ghazl_El_Mahalla_Logo.png",
+      "name": "Ghazl Elmahala",
+        "win": 7,
+        "draw": 15,
+        "lose": 12,
+        "matchesPlayed": 34,
+        "totalPoints": 36
+      },
+      {
+        "standingsNumber": 16,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/El_Gouna_FC_Logo.png",
+        "name": "Gouna",
+        "win": 9,
+        "draw": 9,
+        "lose": 16,
+        "matchesPlayed": 34,
+        "totalPoints": 36
+      },
+      {
+        "standingsNumber": 17,
+        "logo": "https://tmssl.akamaized.net/images/wappen/head/30122.png?lm=1623084320",
+        "name": "Eastern Company",
+        "win": 7,
+        "draw": 12,
+        "lose": 15,
+        "matchesPlayed": 34,
+        "totalPoints": 33
+      },
+      {
+        "standingsNumber": 18,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Misr_Lel_Makkasa_logo.png",
+        "name": "El-Makasa",
+        "win": 2,
+        "draw": 9,
+        "lose": 23,
+        "matchesPlayed": 34,
+        "totalPoints": 15
+      }
+    ],
+    "2020-2021": [
+      {
+        "standingsNumber": 1,
+        "logo": "https://seeklogo.com/images/Z/zamalek-logo-5D73DE3456-seeklogo.com.png",
+        "name": "Zamalek",
+        "win": 24,
+        "draw": 8,
+        "lose": 2,
+        "matchesPlayed": 34,
+        "totalPoints": 80
+      },
+      {
+        "standingsNumber": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/21/Al_Ahly_SC_logo_23.svg/577px-Al_Ahly_SC_logo_23.svg.png",
+        "name": "Al Ahly",
+        "win": 22,
+        "draw": 10,
+        "lose": 2,
+        "matchesPlayed": 34,
+        "totalPoints": 76
+      },
+      {
+        "standingsNumber": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Pyramids_F.C_%282018%29.png",
+        "name": "Pyramids",
+        "win": 13,
+        "draw": 16,
+        "lose": 5,
+        "matchesPlayed": 34,
+        "totalPoints": 55
+      },
+      {
+        "standingsNumber": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/3/3f/Smouha_SC_logo.png",
+        "name": "Smouha",
+        "win": 12,
+        "draw": 18,
+        "lose": 4,
+        "matchesPlayed": 34,
+        "totalPoints": 54
+      },
+      {
+        "standingsNumber": 5,
+        "logo": "https://seeklogo.com/images/A/al-masry-club-logo-696776FF04-seeklogo.com.png",
+      "name": "Al Masry",
+        "win": 13,
+        "draw": 11,
+        "lose": 10,
+        "matchesPlayed": 34,
+        "totalPoints": 50
+      },
+      {
+        "standingsNumber": 6,
+        "logo": "https://seeklogo.com/images/E/Enppi_Egyptian_Soccer_Club-logo-1219612C47-seeklogo.com.png",
+      "name": "Enppi",
+        "win": 12,
+        "draw": 13,
+        "lose": 9,
+        "matchesPlayed": 34,
+        "totalPoints": 49
+      },
+      {
+        "standingsNumber": 7,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/Al-Ittihad_Alexandria_Club_logo.png",
+      "name": "Al Ittihad",
+        "win": 12,
+        "draw": 12,
+        "lose": 10,
+        "matchesPlayed": 34,
+        "totalPoints": 48
+      },
+      {
+        "standingsNumber": 8,
+        "logo": "https://seeklogo.com/images/T/tala-ea-el-gaish-sporting-club-logo-CFC17EE2D9-seeklogo.com.png",
+      "name": "EL-Gaish",
+        "win": 10,
+        "draw": 12,
+        "lose": 12,
+        "matchesPlayed": 34,
+        "totalPoints": 42
+      },
+      {
+        "standingsNumber": 9,
+        "logo": "https://tmssl.akamaized.net/images/wappen/head/3369.png?lm=1415485566",
+        "name": "Al Mokawlon",
+        "win": 11,
+        "draw": 8,
+        "lose": 15,
+        "matchesPlayed": 34,
+        "totalPoints": 41
+      },
+      {
+        "standingsNumber": 10,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Ceramica_Cleopatra_FC_logo.png",
+      "name": "Ceramica Cleopatra",
+        "win": 8,
+        "draw": 15,
+        "lose": 11,
+        "matchesPlayed": 34,
+        "totalPoints": 39
+      },
+      {
+        "standingsNumber": 11,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Misr_Lel_Makkasa_logo.png",
+        "name": "El-Makasa",
+        "win": 10,
+        "draw": 8,
+        "lose": 16,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 12,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/El_Gouna_FC_Logo.png",
+        "name": "Gouna",
+        "win": 8,
+        "draw": 14,
+        "lose": 12,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 13,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ismaily_SC_logo.png",
+      "name": "Ismaily",
+        "win": 10,
+        "draw": 11,
+        "lose": 13,
+        "matchesPlayed": 34,
+        "totalPoints": 38
+      },
+      {
+        "standingsNumber": 14,
+      "logo": "https://pbs.twimg.com/media/EkQIi5MX0AM9HU-.png",
+      "name": "National Bank",
+        "win": 6,
+        "draw": 17,
+        "lose": 111,
+        "matchesPlayed": 34,
+        "totalPoints": 35
+      },
+      {
+        "standingsNumber": 15,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ghazl_El_Mahalla_Logo.png",
+      "name": "Ghazl Elmahala",
+        "win": 7,
+        "draw": 14,
+        "lose": 13,
+        "matchesPlayed": 34,
+        "totalPoints": 35
+      },
+      {
+        "standingsNumber": 16,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/0/08/Wadi_Degla_Logo.png",
+        "name": "Wadi Degla",
+        "win": 5,
+        "draw": 15,
+        "lose": 14,
+        "matchesPlayed": 34,
+        "totalPoints": 30
+      },
+      {
+        "standingsNumber": 17,
+        "logo": "https://www.kingfut.com/wp-content/uploads/2017/09/El-Entag-El-Harby-SC.png",
+        "name": "El-Entag",
+        "win": 5,
+        "draw": 13,
+        "lose": 16,
+        "matchesPlayed": 34,
+        "totalPoints": 28
+      },
+      {
+        "standingsNumber": 18,
+        "logo": "https://upload.wikimedia.org/wikipedia/ar/archive/5/50/20160617033513%21%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A3%D8%B3%D9%88%D8%A7%D9%86.png",
+      "name": "Aswan",
+        "win": 6,
+        "draw": 9,
+        "lose": 19,
+        "matchesPlayed": 34,
+        "totalPoints": 27
+      }
+    ]
+  }  
+

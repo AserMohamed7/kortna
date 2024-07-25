@@ -1,0 +1,608 @@
+{
+  "2023-2024": [
+    {
+      "standingsNumber": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+      "name": "Manchester City",
+      "win": 28,
+      "draw": 7,
+      "lose": 3,
+      "matchesPlayed": 38,
+      "totalPoints": 91
+    },
+    {
+      "standingsNumber": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+      "name": "Arsenal",
+      "win": 28,
+      "draw": 5,
+      "lose": 5,
+      "matchesPlayed": 38,
+      "totalPoints": 89
+    },
+    {
+      "standingsNumber": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "name": "Liverpool",
+      "win": 24,
+      "draw": 10,
+      "lose": 4,
+      "matchesPlayed": 38,
+      "totalPoints": 82
+    },
+    {
+      "standingsNumber": 4,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNkgr9CuuZGXzQgXM7HGr8eVjLxk37DdNyONbRzvWnjZs73lklhsQT5ufwVMv7rG_hbKEttFVM6lDYK6lHxjnPi6R7_F7mWF3DOydaa9jKVhYyXcUQwROT8gsgC-V5dz2GEP6BXFaP_QqBp5Dh6yBIGa432b34oAtxT0ajBQUVda4QFJPZSNNCIDO/s1600/all%20new%20aston%20villa%20logo%20%282%29.png",
+      "name": "Aston Villa",
+      "win": 20,
+      "draw": 8,
+      "lose": 10,
+      "matchesPlayed": 38,
+      "totalPoints": 68
+    },
+    {
+      "standingsNumber": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png",
+      "name": "Tottenham Hotspur",
+      "win": 20,
+      "draw": 6,
+      "lose": 12,
+      "matchesPlayed": 38,
+      "totalPoints": 66
+    },
+    {
+      "standingsNumber": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png",
+      "name": "Chelsea",
+      "win": 18,
+      "draw": 9,
+      "lose":11,
+      "matchesPlayed": 38,
+      "totalPoints": 63
+    },
+    {
+      "standingsNumber": 7,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png",
+      "name": "Newcastle United",
+      "win": 18,
+      "draw": 6,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 60
+    },
+    {
+      "standingsNumber": 8,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",
+      "name": "Manchester United",
+      "win": 18,
+      "draw": 6,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 60
+    },
+    {
+      "standingsNumber": 9,
+      "logo": "https://logodownload.org/wp-content/uploads/2019/05/west-ham-united-logo.png",
+      "name": "Westham United",
+      "win": 14,
+      "draw": 10,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 52
+    },
+    {
+      "standingsNumber": 10,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png",
+      "name": "Crystal Palace",
+      "win": 13,
+      "draw": 10,
+      "lose": 15,
+      "matchesPlayed": 38,
+      "totalPoints": 49
+    },
+    {
+      "standingsNumber": 11,
+      "logo": "https://clipart.info/images/ccovers/1503438065brighton-hove-albion-fc-football-logo-png.png",
+      "name": "Brighton & Hove Albion",
+      "win": 13,
+      "draw": 10,
+      "lose": 15,
+      "matchesPlayed": 38,
+      "totalPoints": 48
+    },
+    {
+      "standingsNumber": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
+      "name": "Bournemouth",
+      "win": 13,
+      "draw": 9,
+      "lose": 16,
+      "matchesPlayed": 38,
+      "totalPoints": 48
+    },
+    {
+      "standingsNumber": 13,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+      "name": "Fulham",
+      "win": 13,
+      "draw": 8,
+      "lose": 17,
+      "matchesPlayed": 38,
+      "totalPoints": 47
+    },
+    {
+      "standingsNumber": 14,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+      "name": "wolves",
+      "win": 13,
+      "draw": 7,
+      "lose": 18,
+      "matchesPlayed": 38,
+      "totalPoints": 46
+    },
+    {
+      "standingsNumber": 15,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/487px-Everton_FC_logo.svg.png?20170428001051",
+      "name": "Everton",
+      "win": 13,
+      "draw": 9,
+      "lose": 16,
+      "matchesPlayed": 38,
+      "totalPoints": 40
+    },
+    {
+      "standingsNumber": 16,
+      "logo": "https://seeklogo.com/images/B/brentford-fc-logo-E928FFBD93-seeklogo.com.png",
+      "name": "Brentford",
+      "win": 10,
+      "draw": 9,
+      "lose": 19,
+      "matchesPlayed": 8,
+      "totalPoints": 39
+    },
+    {
+      "standingsNumber": 17,
+      "logo": "https://seeklogo.com/images/N/nottingham-forest-logo-34EC0D2B28-seeklogo.com.png",
+      "name": "Nottingham Forest",
+      "win": 9,
+      "draw": 9,
+      "lose": 20,
+      "matchesPlayed": 38,
+      "totalPoints": 32
+    },
+    {
+      "standingsNumber": 18,
+      "logo": "https://seeklogo.com/images/L/luton-town-fc-logo-5DAEC5833E-seeklogo.com.png",
+      "name": "Luton",
+      "win": 6,
+      "draw": 8,
+      "lose": 24,
+      "matchesPlayed": 38,
+      "totalPoints": 26
+    },
+    {
+      "standingsNumber": 19,
+      "logo": "https://seeklogo.com/images/B/burnley-f-c-logo-C167A2AD03-seeklogo.com.png",
+      "name": "Burnley",
+      "win": 5,
+      "draw": 9,
+      "lose": 24,
+      "matchesPlayed": 38,
+      "totalPoints": 24
+    },
+    {
+      "standingsNumber": 20,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
+      "name": "Sheffield United",
+      "win": 3,
+      "draw": 7,
+      "lose": 28,
+      "matchesPlayed": 38,
+      "totalPoints": 16
+    }
+  ],
+  "2022-2023": [
+    {
+      "standingsNumber": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+      "name": "Manchester City",
+      "win": 28,
+      "draw": 5,
+      "lose": 5,
+      "matchesPlayed": 38,
+      "totalPoints": 89
+    },
+    {
+      "standingsNumber": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+      "name": "Arsenal",
+      "win": 26,
+      "draw": 6,
+      "lose": 6,
+      "matchesPlayed": 38,
+      "totalPoints": 84
+    },
+    {
+      "standingsNumber": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",
+      "name": "Manchester United",
+      "win": 23,
+      "draw": 6,
+      "lose": 9,
+      "matchesPlayed": 38,
+      "totalPoints": 75
+    },
+    {
+      "standingsNumber": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png",
+      "name": "Newcastle United",
+      "win": 19,
+      "draw": 14,
+      "lose": 5,
+      "matchesPlayed": 38,
+      "totalPoints": 71
+    },
+    {
+      "standingsNumber": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "name": "Liverpool",
+      "win": 19,
+      "draw": 10,
+      "lose": 9,
+      "matchesPlayed": 38,
+      "totalPoints": 67
+    },
+    {
+      "standingsNumber": 6,
+      "logo": "https://clipart.info/images/ccovers/1503438065brighton-hove-albion-fc-football-logo-png.png",
+      "name": "Brighton & Hove Albion",
+      "win": 18,
+      "draw": 8,
+      "lose": 12,
+      "matchesPlayed": 38,
+      "totalPoints": 62
+    },
+    {
+      "standingsNumber": 7,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNkgr9CuuZGXzQgXM7HGr8eVjLxk37DdNyONbRzvWnjZs73lklhsQT5ufwVMv7rG_hbKEttFVM6lDYK6lHxjnPi6R7_F7mWF3DOydaa9jKVhYyXcUQwROT8gsgC-V5dz2GEP6BXFaP_QqBp5Dh6yBIGa432b34oAtxT0ajBQUVda4QFJPZSNNCIDO/s1600/all%20new%20aston%20villa%20logo%20%282%29.png",
+      "name": "Aston Villa",
+      "win": 18,
+      "draw": 7,
+      "lose": 13,
+      "matchesPlayed": 38,
+      "totalPoints": 61
+    },
+    {
+      "standingsNumber": 8,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png",
+      "name": "Tottenham Hotspur",
+      "win": 18,
+      "draw": 6,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 60
+    },
+    {
+      "standingsNumber": 9,
+      "logo": "https://seeklogo.com/images/B/brentford-fc-logo-E928FFBD93-seeklogo.com.png",
+      "name": "Brentford",
+      "win": 15,
+      "draw": 14,
+      "lose": 9,
+      "matchesPlayed": 38,
+      "totalPoints": 59
+    },
+    {
+      "standingsNumber": 10,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+      "name": "Fulham",
+      "win": 15,
+      "draw": 7,
+      "lose": 16,
+      "matchesPlayed": 38,
+      "totalPoints": 52
+    },
+    {
+      "standingsNumber": 11,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png",
+      "name": "Crystal Palace",
+      "win": 11,
+      "draw": 12,
+      "lose": 15,
+      "matchesPlayed": 38,
+      "totalPoints": 45
+    },
+    {
+      "standingsNumber": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png",
+      "name": "Chelsea",
+      "win": 11,
+      "draw": 11,
+      "lose": 16,
+      "matchesPlayed": 38,
+      "totalPoints": 44
+    },
+    {
+      "standingsNumber": 13,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+      "name": "wolves",
+      "win": 11,
+      "draw": 8,
+      "lose": 19,
+      "matchesPlayed": 38,
+      "totalPoints": 41
+    },
+    {
+      "standingsNumber": 14,
+      "logo": "https://logodownload.org/wp-content/uploads/2019/05/west-ham-united-logo.png",
+      "name": "Westham United",
+      "win": 11,
+      "draw": 7,
+      "lose": 20,
+      "matchesPlayed": 38,
+      "totalPoints": 40
+    },
+    {
+      "standingsNumber": 15,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png",
+      "name": "Bournemouth",
+      "win": 11,
+      "draw": 6,
+      "lose": 21,
+      "matchesPlayed": 38,
+      "totalPoints": 39
+    },
+    {
+      "standingsNumber": 16,
+      "logo": "https://seeklogo.com/images/N/nottingham-forest-logo-34EC0D2B28-seeklogo.com.png",
+      "name": "Nottingham Forest",
+      "win": 9,
+      "draw": 11,
+      "lose": 18,
+      "matchesPlayed": 38,
+      "totalPoints": 38
+    },
+    {
+      "standingsNumber": 17,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/487px-Everton_FC_logo.svg.png?20170428001051",
+      "name": "Everton",
+      "win": 8,
+      "draw": 12,
+      "lose": 18,
+      "matchesPlayed": 38,
+      "totalPoints": 36
+    },
+    {
+      "standingsNumber": 18,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/a/ab/Leicester_City_crest.png",
+      "name": "Leicester",
+      "win": 9,
+      "draw": 7,
+      "lose": 22,
+      "matchesPlayed": 38,
+      "totalPoints": 34
+    },
+    {
+      "standingsNumber": 19,
+      "logo": "https://careers-in-sport.co.uk/wp-content/uploads/2021/03/leeds-united-afc-3-logo-png-transparent.png",
+      "name": "Leeds United",
+      "win": 7,
+      "draw": 10,
+      "lose": 21,
+      "matchesPlayed": 38,
+      "totalPoints": 31
+    },
+    {
+      "standingsNumber": 20,
+      "logo": "https://1000logos.net/wp-content/uploads/2018/07/Southampton-Logo-1974.png",
+      "name": "Southampton",
+      "win": 6,
+      "draw": 7,
+      "lose": 25,
+      "matchesPlayed": 38,
+      "totalPoints": 25
+    }
+  ],
+  "2021-2022": [
+    {
+      "standingsNumber": 1,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+      "name": "Manchester City",
+      "win": 29,
+      "draw": 6,
+      "lose": 3,
+      "matchesPlayed": 38,
+      "totalPoints": 93
+    },
+    {
+      "standingsNumber": 2,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "name": "Liverpool",
+      "win": 28,
+      "draw": 8,
+      "lose": 2,
+      "matchesPlayed": 38,
+      "totalPoints": 92
+    },
+    {
+      "standingsNumber": 3,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/2048px-Chelsea_FC.svg.png",
+      "name": "Chelsea",
+      "win": 21,
+      "draw": 11,
+      "lose": 6,
+      "matchesPlayed": 38,
+      "totalPoints": 74
+    },
+    {
+      "standingsNumber": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/6/6d/Tottenham_Hotspur.png",
+      "name": "Tottenham Hotspur",
+      "win": 22,
+      "draw": 5,
+      "lose": 11,
+      "matchesPlayed": 38,
+      "totalPoints": 71
+    },
+    {
+      "standingsNumber": 5,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+      "name": "Arsenal",
+      "win": 22,
+      "draw": 3,
+      "lose": 13,
+      "matchesPlayed": 38,
+      "totalPoints": 69
+    },
+    {
+      "standingsNumber": 6,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/f/ff/Manchester_United_FC_crest.png",
+      "name": "Manchester United",
+      "win": 16,
+      "draw": 10,
+      "lose": 12,
+      "matchesPlayed": 38,
+      "totalPoints": 58
+    },
+    {
+      "standingsNumber": 7,
+      "logo": "https://logodownload.org/wp-content/uploads/2019/05/west-ham-united-logo.png",
+      "name": "Westham United",
+      "win": 16,
+      "draw": 8,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 56
+    },
+    {
+      "standingsNumber": 8,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/a/ab/Leicester_City_crest.png",
+      "name": "Leicester",
+      "win": 14,
+      "draw": 10,
+      "lose": 14,
+      "matchesPlayed": 38,
+      "totalPoints": 52
+    },
+    {
+      "standingsNumber": 9,
+      "logo": "https://clipart.info/images/ccovers/1503438065brighton-hove-albion-fc-football-logo-png.png",
+      "name": "Brighton & Hove Albion",
+      "win": 12,
+      "draw": 15,
+      "lose": 11,
+      "matchesPlayed": 38,
+      "totalPoints": 51
+    },
+    {
+      "standingsNumber": 10,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+      "name": "wolves",
+      "win": 15,
+      "draw": 6,
+      "lose": 17,
+      "matchesPlayed": 38,
+      "totalPoints": 51
+    },
+    {
+      "standingsNumber": 11,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/2/25/Newcastle_United_Logo.png",
+      "name": "Newcastle United",
+      "win": 13,
+      "draw": 10,
+      "lose": 15,
+      "matchesPlayed": 38,
+      "totalPoints": 49
+    },
+    {
+      "standingsNumber": 12,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/c/c1/Crystal_Palace_FC_logo.png",
+      "name": "Crystal Palace",
+      "win": 11,
+      "draw": 15,
+      "lose": 12,
+      "matchesPlayed": 38,
+      "totalPoints": 48
+    },
+    {
+      "standingsNumber": 13,
+      "logo": "https://seeklogo.com/images/B/brentford-fc-logo-E928FFBD93-seeklogo.com.png",
+      "name": "Brentford",
+      "win": 13,
+      "draw": 7,
+      "lose": 18,
+      "matchesPlayed": 38,
+      "totalPoints": 46
+    },
+    {
+      "standingsNumber": 14,
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNkgr9CuuZGXzQgXM7HGr8eVjLxk37DdNyONbRzvWnjZs73lklhsQT5ufwVMv7rG_hbKEttFVM6lDYK6lHxjnPi6R7_F7mWF3DOydaa9jKVhYyXcUQwROT8gsgC-V5dz2GEP6BXFaP_QqBp5Dh6yBIGa432b34oAtxT0ajBQUVda4QFJPZSNNCIDO/s1600/all%20new%20aston%20villa%20logo%20%282%29.png",
+      "name": "Aston Villa",
+      "win": 13,
+      "draw": 6,
+      "lose": 19,
+      "matchesPlayed": 38,
+      "totalPoints": 45
+    },
+    {
+      "standingsNumber": 15,
+      "logo": "https://1000logos.net/wp-content/uploads/2018/07/Southampton-Logo-1974.png",
+      "name": "Southampton",
+      "win": 9,
+      "draw": 13,
+      "lose": 16,
+      "matchesPlayed": 38,
+      "totalPoints": 40
+    },
+    {
+      "standingsNumber": 16,
+      "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/487px-Everton_FC_logo.svg.png?20170428001051",
+      "name": "Everton",
+      "win": 11,
+      "draw": 6,
+      "lose": 21,
+      "matchesPlayed": 38,
+      "totalPoints": 39
+    },
+    {
+      "standingsNumber": 17,
+      "logo": "https://careers-in-sport.co.uk/wp-content/uploads/2021/03/leeds-united-afc-3-logo-png-transparent.png",
+      "name": "Leeds United",
+      "win": 9,
+      "draw": 11,
+      "lose": 18,
+      "matchesPlayed": 38,
+      "totalPoints": 38
+    },
+    {
+      "standingsNumber": 18,
+      "logo": "https://seeklogo.com/images/B/burnley-f-c-logo-C167A2AD03-seeklogo.com.png",
+      "name": "Burnley",
+      "win": 7,
+      "draw": 14,
+      "lose": 17,
+      "matchesPlayed": 38,
+      "totalPoints": 35
+    },
+    {
+      "standingsNumber": 19,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/3/30/Watford.png",
+      "name": "Watford",
+      "win": 6,
+      "draw": 5,
+      "lose": 27,
+      "matchesPlayed": 38,
+      "totalPoints": 23
+    },
+    {
+      "standingsNumber": 20,
+      "logo": "https://upload.wikimedia.org/wikipedia/hif/4/41/Norwich_City.png",
+      "name": "Norwich City",
+      "win": 5,
+      "draw": 7,
+      "lose": 26,
+      "matchesPlayed": 38,
+      "totalPoints": 27
+    }
+  ]
+}

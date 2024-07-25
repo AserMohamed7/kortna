@@ -21,7 +21,7 @@
             "correct_answer": "The Red Devils"
           },
           {
-            "question": "How many CAF Champions League titles has Al Ahly won till 2024 ?",
+            "question": "How many CAF Champions League titles has Al Ahly won till 2024?",
             "answers": ["5", "12", "10", "11"],
             "correct_answer": "12"
           },
@@ -34,6 +34,26 @@
             "question": "How many Egyptian Premier League titles has Al Ahly won as of 2024?",
             "answers": ["40", "41", "42", "43"],
             "correct_answer": "43"
+          },
+          {
+            "question": "Who is considered one of Al Ahly's most famous players?",
+            "answers": ["Mohamed Salah", "Shikabala", "Mohamed Aboutrika", "Essam El-Hadary"],
+            "correct_answer": "Mohamed Aboutrika"
+          },
+          {
+            "question": "Which stadium is primarily used by Al Ahly SC for their home matches?",
+            "answers": ["Borg El Arab Stadium", "Cairo International Stadium", "Al Ahly WE Al Salam Stadium", "Petro Sport Stadium"],
+            "correct_answer": "Al Ahly WE Al Salam Stadium"
+          },
+          {
+            "question": "Which club is Al Ahly's traditional rival in Egyptian football?",
+            "answers": ["Zamalek SC", "Ismaily SC", "Pyramids FC", "El Gouna FC"],
+            "correct_answer": "Zamalek SC"
+          },
+          {
+            "question": "What is the motto of Al Ahly Sporting Club?",
+            "answers": ["Victory or Nothing", "The Club of the Century", "Pride and Honor", "Forever Red"],
+            "correct_answer": "The Club of the Century"
           }
         ]
       },
@@ -43,17 +63,57 @@
         "description": "Show us the real Zamalkawy",
         "items": [
           {
-            "question": "What planet is known as the Red Planet?",
-            "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
-            "correct_answer": "Mars"
+            "question": "In which year was Zamalek Sporting Club founded?",
+            "answers": ["1911", "1921", "1931", "1941"],
+            "correct_answer": "1911"
           },
           {
-            "question": "What is the chemical symbol for water?",
-            "answers": ["H2O", "O2", "CO2", "H2"],
-            "correct_answer": "H2O"
+            "question": "What are the primary colors of Zamalek SC's kit?",
+            "answers": ["Red and White", "Blue and White", "Green and White", "Black and White"],
+            "correct_answer": "White and Red"
+          },
+          {
+            "question": "What is the nickname of Zamalek Sporting Club?",
+            "answers": ["The Royal Club", "The Pharaohs", "The White Knights", "The Desert Warriors"],
+            "correct_answer": "The White Knights"
+          },
+          {
+            "question": "In which city is Zamalek SC based?",
+            "answers": ["Alexandria", "Giza", "Cairo", "Luxor"],
+            "correct_answer": "Giza"
+          },
+          {
+            "question": "Which stadium is primarily used by Zamalek SC for their home matches?",
+            "answers": ["Borg El Arab Stadium", "Cairo International Stadium", "Petro Sport Stadium", "Al Ahly Stadium"],
+            "correct_answer": "Cairo International Stadium"
+          },
+          {
+            "question": "Who is Zamalek SC's traditional football rival?",
+            "answers": ["Ismaily SC", "Pyramids FC", "Al Ahly SC", "El Gouna FC"],
+            "correct_answer": "Al Ahly SC"
+          },
+          {
+            "question": "How many CAF Champions League titles has Zamalek SC won as of 2024?",
+            "answers": ["3", "5", "7", "9"],
+            "correct_answer": "5"
+          },
+          {
+            "question": "Who is considered one of Zamalek SC's most famous players?",
+            "answers": ["Ahmed Hegazi", "Mohamed Salah", "Hazem Emam", "Ahmed Elmohamady"],
+            "correct_answer": "Hazem Emam"
+          },
+          {
+            "question": "In which district is Zamalek SC's headquarters located?",
+            "answers": ["Zamalek", "Heliopolis", "Nasr City", "Mohandessin"],
+            "correct_answer": "Mohandessin"
+          },
+          {
+            "question": "What sport, besides football, is Zamalek SC known for excelling in?",
+            "answers": ["Basketball", "Handball", "Volleyball", "Swimming"],
+            "correct_answer": "Handball"
           }
         ]
-      },
+      },      
       {
         "name": "Premier League Quiz",
         "image": "https://images.news18.com/ibnlive/uploads/2023/05/untitled-design-144-16846933743x2.png",
@@ -108,23 +168,6 @@
             "question": "Which club was promoted to the Premier League for the 2023-2024 season?",
             "answers": ["Luton Town", "Nottingham Forest", "Bournemouth", "Sheffield United"],
             "correct_answer": "Luton Town"
-          }
-        ]
-      },      
-      {
-        "name": "General Quiz",
-        "image": "https://example.com/images/math_quiz.png",
-        "description": "Test your math skills with these questions.",
-        "items": [
-          {
-            "question": "What is 2 + 2?",
-            "answers": ["3", "4", "5", "6"],
-            "correct_answer": "4"
-          },
-          {
-            "question": "What is 10 / 2?",
-            "answers": ["2", "4", "5", "10"],
-            "correct_answer": "5"
           }
         ]
       }
